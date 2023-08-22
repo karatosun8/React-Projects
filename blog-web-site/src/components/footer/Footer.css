@@ -1,0 +1,13 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+footer .icon i{
+    margin: 5px;
+}
+footer .icon i:hover{
+    cursor: pointer;
+    color: blue;
+    scale: 1.1;
+}

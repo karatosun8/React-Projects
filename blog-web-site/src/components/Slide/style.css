@@ -18,3 +18,19 @@
     /*Sliderin yuvarlak iconlarının boyutu*/
     font-size: 40px;
   }
+  /*
+.slick-dots li.slick-active button:before {
+  color: black !important;
+}
+*/
+/*----------card two----*/
+.CardTwo.slide .box:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+  .CardTwo.slide .img {
+    padding: 10px;
+  }
+  .CardTwo.slide .img img:hover {
+    transform: scale(1.04) !important;
+  }
+  /*----------card two----*/

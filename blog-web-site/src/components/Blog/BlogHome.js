@@ -2,6 +2,7 @@ import React from "react";
 import Slide from "../Slide/Slide";
 import Card from "./Card";
 import Footer from "../footer/Footer";
+import CardTwo from "./CardTwo";
 
 
 
@@ -52,6 +53,7 @@ const BlogHome = () => {
         <div className="right-content">
             <Slide/>
             <Card/>
+            <CardTwo/>
             <Footer/>
             
         </div>
