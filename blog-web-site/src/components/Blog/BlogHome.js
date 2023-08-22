@@ -1,4 +1,9 @@
 import React from "react";
+import Slide from "../Slide/Slide";
+import Card from "./Card";
+import Footer from "../footer/Footer";
+
+
 
 const BlogHome = () => {
   const data = [
@@ -44,7 +49,12 @@ const BlogHome = () => {
             );
           })}
         </div>
-        <div className="right-content"></div>
+        <div className="right-content">
+            <Slide/>
+            <Card/>
+            <Footer/>
+            
+        </div>
       </section>
     </>
   );
