@@ -1,8 +1,12 @@
-import React from 'react'
+import React, {useState} from 'react'
+import Homes from '../components/homes/Homes'
 
 const HomePages = () => {
+  
   return (
-    <>HomePages</>
+    <>
+    <Homes/>
+    </>
   )
 }
 
