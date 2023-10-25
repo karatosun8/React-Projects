@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "title": "Kitap Okuma",
+      "taskDesc": "Günlük 100 sayfa kitap oku",
+      "id": 1
+    },
+    {
+      "title": "Spor Yapma",
+      "taskDesc": "Günlük en az 30 dk yürüyüş yap",
+      "id": 2
+    }
+  ]
+}
